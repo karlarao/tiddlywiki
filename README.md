@@ -23,12 +23,15 @@ MonkeyPirateTiddlyWiki (MPTW) template
 # download and setup
 
 Download the wiki on your Windows desktop https://github.com/karlarao/tiddlywiki/archive/refs/heads/main.zip
+
 <img width="293" alt="Screen Shot 2021-04-24 at 11 53 45 AM" src="https://user-images.githubusercontent.com/3683046/115965927-541e0e80-a4f9-11eb-915b-ce6bd3b46519.png">
 
 Unzip and move the **tiddlywiki-main** folder to any directory 
+
 <img width="277" alt="Screen Shot 2021-04-24 at 11 57 47 AM" src="https://user-images.githubusercontent.com/3683046/115965928-54b6a500-a4f9-11eb-8514-62a63dc26618.png">
 
 Click and Install "Firefox Setup 4.0 RC 2.exe"
+
 <img width="286" alt="Screen Shot 2021-04-24 at 11 57 59 AM" src="https://user-images.githubusercontent.com/3683046/115965929-54b6a500-a4f9-11eb-8f57-4efd0e11d204.png">
 
 Choose Custom
