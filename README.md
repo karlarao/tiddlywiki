@@ -129,7 +129,7 @@ The RSS file is tiddlywiki.xml
 
 Follow this howto to enable git pages https://github.blog/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
 
-Execute the following inside your git repo to sync the local files git pages:
+Execute the following inside your git repo to sync the local files to git pages:
 
 **_execute this on 1st commit_** 
 ```
