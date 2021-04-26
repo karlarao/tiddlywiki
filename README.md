@@ -88,7 +88,7 @@ On the right section, click **"new tiddler"**
 
 <img width="886" alt="Screen Shot 2021-04-24 at 12 03 11 PM" src="https://user-images.githubusercontent.com/3683046/115965941-55e7d200-a4f9-11eb-9085-d4921f83189d.png">
 
-Type "test wiki 01" as title, hit **CTRL + ENTER** to save
+Type "test wiki 01" as title, hit **CTRL + ENTER** to save.
 Another way to save is hove on the top right of the tiddler and click **"Done"**
 
 <img width="888" alt="Screen Shot 2021-04-24 at 12 03 53 PM" src="https://user-images.githubusercontent.com/3683046/115965942-56806880-a4f9-11eb-8482-75af9883ff0b.png">
@@ -150,6 +150,8 @@ The RSS file is tiddlywiki.xml
 
 
 # setup git pages
+
+First you need to create a git repository https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
 
 Follow this howto to enable git pages https://github.blog/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
 
